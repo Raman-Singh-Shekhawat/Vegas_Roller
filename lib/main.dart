@@ -64,4 +64,8 @@ class _DiceStateState extends State<DiceState> {
     );
   }
 }
+<<<<<<< HEAD
 //End of Program
+=======
+// End of main.dart
+>>>>>>> 1e46df2b838634745b4ad80f39db15ac11f2f67f
