@@ -1,4 +1,4 @@
-# Dicee 🎲
+# Throw Dicee  🎲
 
 ## What you will create using this repo
 
